@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.alibaba.fastjson2:fastjson2:2.0.35.android4" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.alibaba.fastjson2" artifactId="fastjson2" version="2.0.35.android4" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba.fastjson2/fastjson2/2.0.35.android4/d857b1d1781ec7f9fcd2347706f149559d369078/fastjson2-2.0.35.android4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

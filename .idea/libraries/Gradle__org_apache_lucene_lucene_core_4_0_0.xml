@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.lucene:lucene-core:4.0.0" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.apache.lucene" artifactId="lucene-core" version="4.0.0" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/4.0.0/90e70d3763fbf2c52445f827e4e2ebd3615bba60/lucene-core-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/4.0.0/da7e5ddd9c4fdd2e447b390234afa6405ce0b8ae/lucene-core-4.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/4.0.0/8baf36aa03aa290f89e43c8a8ffb2297321c609b/lucene-core-4.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

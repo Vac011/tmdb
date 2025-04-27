@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.davidmoten:guava-mini:0.1.4" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.davidmoten" artifactId="guava-mini" version="0.1.4" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/guava-mini/0.1.4/515fff536d5080995b0197fabc2a2002c63a709c/guava-mini-0.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/guava-mini/0.1.4/2472bdc070fa0e687ef0897d5deda646b123b94c/guava-mini-0.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/guava-mini/0.1.4/42d04c780f119740fb32ba15687edbb36e5f5b33/guava-mini-0.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

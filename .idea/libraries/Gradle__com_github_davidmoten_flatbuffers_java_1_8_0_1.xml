@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.davidmoten:flatbuffers-java:1.8.0.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.davidmoten" artifactId="flatbuffers-java" version="1.8.0.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/flatbuffers-java/1.8.0.1/99849bbe0e36ec2d1cd238a0598dc5ab01f34cc8/flatbuffers-java-1.8.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/flatbuffers-java/1.8.0.1/70fa44d196ac0b776b4f8d39283e10e0b8535f99/flatbuffers-java-1.8.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/flatbuffers-java/1.8.0.1/bcbcc4b2cc0676d7c6d5e8c9404c12e7c25faeb4/flatbuffers-java-1.8.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.graphhopper:graphhopper-reader-osm:0.10.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.graphhopper" artifactId="graphhopper-reader-osm" version="0.10.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.graphhopper/graphhopper-reader-osm/0.10.3/7140349c76a04a4c429fc5e29c210125ed3538f5/graphhopper-reader-osm-0.10.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.graphhopper/graphhopper-reader-osm/0.10.3/f648fa1bf19aed732b2c81ff31d32fc66aaf912c/graphhopper-reader-osm-0.10.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.graphhopper/graphhopper-reader-osm/0.10.3/b508648639bec69f05f5d7d9bcea4cd49dfa60d6/graphhopper-reader-osm-0.10.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

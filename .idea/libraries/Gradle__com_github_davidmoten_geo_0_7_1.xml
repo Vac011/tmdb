@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.davidmoten:geo:0.7.1" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.davidmoten" artifactId="geo" version="0.7.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/geo/0.7.1/b8e385ec70b9af437a7c4a70d46da88e51515b96/geo-0.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/geo/0.7.1/4245cf9a3dd045f5dc99a126c8ae819b062be307/geo-0.7.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/geo/0.7.1/7e9726c66e88ab90941d103531ee7c043bebd52f/geo-0.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

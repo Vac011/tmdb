@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.rocksdb:rocksdbjni:5.7.3" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.rocksdb" artifactId="rocksdbjni" version="5.7.3" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rocksdb/rocksdbjni/5.7.3/421b44ad957a2b6cce5adedc204db551831b553d/rocksdbjni-5.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rocksdb/rocksdbjni/5.7.3/aa414c862c4936340ab5927b20708b37ae86daf7/rocksdbjni-5.7.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rocksdb/rocksdbjni/5.7.3/6ebe61c1667d225afe01a250bed1f1018898a158/rocksdbjni-5.7.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

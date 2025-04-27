@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: me.lemire.integercompression:JavaFastPFOR:0.1.12" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="me.lemire.integercompression" artifactId="JavaFastPFOR" version="0.1.12" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.lemire.integercompression/JavaFastPFOR/0.1.12/d469d4da8501831227f2be1c3d35d29d2259b977/JavaFastPFOR-0.1.12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.lemire.integercompression/JavaFastPFOR/0.1.12/61813b85f4f19f252c5ca8f93f7429e231614e56/JavaFastPFOR-0.1.12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.lemire.integercompression/JavaFastPFOR/0.1.12/57800daada01cdf85624fc0d004a533a9e9f82e3/JavaFastPFOR-0.1.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

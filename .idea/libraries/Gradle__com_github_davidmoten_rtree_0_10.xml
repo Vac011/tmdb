@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.davidmoten:rtree:0.10" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="com.github.davidmoten" artifactId="rtree" version="0.10" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/rtree/0.10/985f1e87d4d1d8a53d198fc5caad6f44c937bd58/rtree-0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/rtree/0.10/b8928ec0e0c167a889e17731e898a4b08067f48a/rtree-0.10-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.davidmoten/rtree/0.10/2f78d87439026825618ed8399b52bc8bd624ba41/rtree-0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
